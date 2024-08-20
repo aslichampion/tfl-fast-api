@@ -1,0 +1,6 @@
+fastapi[standard]
+httpx
+lxml
+pydantic
+pydantic-xml
+pydantic-settings
